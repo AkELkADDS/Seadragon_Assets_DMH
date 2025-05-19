@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="10"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="f9bb9f98-414f-2781-87be-84516450facd"/>
+            <attribute id="Name" type="LSString" value="SeaDrA_DMH"/>
+            <attribute id="UUID" type="LSString" value="cb651b6b-6dc0-dae4-9cb3-ea8f93aae24c"/>
+            <attribute id="UpdatedDependencies" type="bool" value="true"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>

@@ -1,0 +1,267 @@
+====================================================== 
+   BG3 MOD BACKUP DETAILED LOG - SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd 
+   Mon 05/19/2025  7:37:39.48 
+====================================================== 
+ 
+BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
+Backup folder: C:\GIT_BG3\MOD_REPOS\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd 
+ 
+[FILE COPYING REPORT] 
+====================================================== 
+SECTION 1: FILES FOUND 
+------------------------------------------------------------------------ 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\thumbnail.png 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd: 2 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\CharacterCreation\CharacterCreationAppearanceVisuals.tbl 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd: 1 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\mod_publish_logo.png 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\GUI\metadata.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\Localization\English\english.xml 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd: 4 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\CharacterCreation\CharacterCreationAppearanceVisuals.lsx 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd: 1 
+ 
+[LOG] Total files found across all folders: 8 
+ 
+SECTION 2: COPY OPERATIONS 
+------------------------------------------------------------------------ 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\Projects\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd to Projects\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd 
+[DEBUG] Using destination: Projects\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:37:43 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\
+     Dest : C:\GIT_BG3\MOD_REPOS\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\Projects\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		     688	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\meta.lsx100%  
+	    New File  		   1.2 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\thumbnail.png 41%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         1         1         0         0         0
+   Files :         2         2         0         0         0         0
+   Bytes :    1.20 m    1.20 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           1266179000 Bytes/sec.
+   Speed :            72451.343 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:37:43 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 2 
+[DEBUG] Successfully copied files: 2 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd: 
+      Total files: 2 
+      Copied successfully: 2 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\Editor\Mods\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd to "Editor\Mods"\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd 
+[DEBUG] Using destination: Editor\Mods\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:37:44 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\
+     Dest : C:\GIT_BG3\MOD_REPOS\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\Editor\Mods\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   29329	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\CharacterCreation\CharacterCreationAppearanceVisuals.tbl  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         2         2         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    28.6 k    28.6 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Monday, May 19, 2025 7:37:44 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 1 
+[DEBUG] Successfully copied files: 1 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd: 
+      Total files: 1 
+      Copied successfully: 1 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\Mods\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd to Mods\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd 
+[DEBUG] Using destination: Mods\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:37:46 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\
+     Dest : C:\GIT_BG3\MOD_REPOS\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\Mods\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		    7117	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\meta.lsx100%  
+	    New File  		   1.2 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\mod_publish_logo.png 41%  100%  
+	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\GUI\metadata.lsf100%  
+	    New File  		    2543	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\Localization\English\english.xml100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         4         4         1         0         0         0
+   Files :         4         4         0         0         0         0
+   Bytes :    1.21 m    1.21 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           638146000 Bytes/sec.
+   Speed :           36515.007 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:37:46 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 4 
+[DEBUG] Successfully copied files: 4 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd: 
+      Total files: 4 
+      Copied successfully: 4 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd to Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd 
+[DEBUG] Using destination: Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:37:48 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\
+     Dest : C:\GIT_BG3\MOD_REPOS\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   22067	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\CharacterCreation\CharacterCreationAppearanceVisuals.lsx  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         2         2         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    21.5 k    21.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Monday, May 19, 2025 7:37:48 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 1 
+[DEBUG] Successfully copied files: 1 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd: 
+      Total files: 1 
+      Copied successfully: 1 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+SECTION 3: FALLBACK COPY ATTEMPTS 
+------------------------------------------------------------------------ 
+ 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 2 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 1 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 4 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 1 
+SECTION 4: FINAL SUMMARY 
+------------------------------------------------------------------------ 
+ 
+[SUMMARY] Total mod folders found: 1 
+[SUMMARY] Total files found: 8 
+[SUMMARY] Total files successfully copied: 16 
+ 
+[SUMMARY] All files were copied successfully 
+ 
+====================================================== 
