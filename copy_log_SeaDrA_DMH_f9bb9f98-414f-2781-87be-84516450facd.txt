@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd 
-   Mon 05/19/2025  7:37:39.48 
+   Sun 03/15/2026 16:50:43.03 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -55,7 +55,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, May 19, 2025 7:37:43 AM
+  Started : Sunday, March 15, 2026 4:50:46 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\
      Dest : C:\GIT_BG3\MOD_REPOS\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\Projects\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\
 
@@ -66,7 +66,7 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		     688	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\meta.lsx100%  
-	    New File  		   1.2 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\thumbnail.png 41%  100%  
+	    New File  		   1.2 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\thumbnail.png 62%  100%  
 
 ------------------------------------------------------------------------------
 
@@ -79,7 +79,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           1266179000 Bytes/sec.
    Speed :            72451.343 MegaBytes/min.
-   Ended : Monday, May 19, 2025 7:37:43 AM
+   Ended : Sunday, March 15, 2026 4:50:46 PM
 
  
 [DEBUG] Counting source files 
@@ -105,7 +105,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, May 19, 2025 7:37:44 AM
+  Started : Sunday, March 15, 2026 4:50:47 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\
      Dest : C:\GIT_BG3\MOD_REPOS\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\Editor\Mods\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\
 
@@ -115,16 +115,16 @@ SECTION 2: COPY OPERATIONS
 
 ------------------------------------------------------------------------------
 
-	    New File  		   29329	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\CharacterCreation\CharacterCreationAppearanceVisuals.tbl  0%  100%  
+	    New File  		   73116	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\CharacterCreation\CharacterCreationAppearanceVisuals.tbl100%  
 
 ------------------------------------------------------------------------------
 
                Total    Copied   Skipped  Mismatch    FAILED    Extras
-    Dirs :         2         2         1         0         0         0
+    Dirs :         6         6         1         0         0         0
    Files :         1         1         0         0         0         0
-   Bytes :    28.6 k    28.6 k         0         0         0         0
+   Bytes :    71.4 k    71.4 k         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
-   Ended : Monday, May 19, 2025 7:37:44 AM
+   Ended : Sunday, March 15, 2026 4:50:47 PM
 
  
 [DEBUG] Counting source files 
@@ -150,7 +150,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, May 19, 2025 7:37:46 AM
+  Started : Sunday, March 15, 2026 4:50:49 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\
      Dest : C:\GIT_BG3\MOD_REPOS\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\Mods\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\
 
@@ -160,23 +160,23 @@ SECTION 2: COPY OPERATIONS
 
 ------------------------------------------------------------------------------
 
-	    New File  		    7117	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\meta.lsx100%  
-	    New File  		   1.2 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\mod_publish_logo.png 41%  100%  
+	    New File  		   14076	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\meta.lsx100%  
+	    New File  		   1.2 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\mod_publish_logo.png100%  
 	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\GUI\metadata.lsf100%  
-	    New File  		    2543	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\Localization\English\english.xml100%  
+	    New File  		    6131	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\Localization\English\english.xml100%  
 
 ------------------------------------------------------------------------------
 
                Total    Copied   Skipped  Mismatch    FAILED    Extras
     Dirs :         4         4         1         0         0         0
    Files :         4         4         0         0         0         0
-   Bytes :    1.21 m    1.21 m         0         0         0         0
+   Bytes :    1.22 m    1.22 m         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           638146000 Bytes/sec.
-   Speed :           36515.007 MegaBytes/min.
-   Ended : Monday, May 19, 2025 7:37:46 AM
+   Speed :           643419500 Bytes/sec.
+   Speed :           36816.759 MegaBytes/min.
+   Ended : Sunday, March 15, 2026 4:50:49 PM
 
  
 [DEBUG] Counting source files 
@@ -202,7 +202,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, May 19, 2025 7:37:48 AM
+  Started : Sunday, March 15, 2026 4:50:50 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\
      Dest : C:\GIT_BG3\MOD_REPOS\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\
 
@@ -212,16 +212,20 @@ SECTION 2: COPY OPERATIONS
 
 ------------------------------------------------------------------------------
 
-	    New File  		   22067	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\CharacterCreation\CharacterCreationAppearanceVisuals.lsx  0%  100%  
+	    New File  		   54769	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\CharacterCreation\CharacterCreationAppearanceVisuals.lsx100%  
 
 ------------------------------------------------------------------------------
 
                Total    Copied   Skipped  Mismatch    FAILED    Extras
-    Dirs :         2         2         1         0         0         0
+    Dirs :         3         3         1         0         0         0
    Files :         1         1         0         0         0         0
-   Bytes :    21.5 k    21.5 k         0         0         0         0
+   Bytes :    53.4 k    53.4 k         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
-   Ended : Monday, May 19, 2025 7:37:48 AM
+
+
+   Speed :            54769000 Bytes/sec.
+   Speed :            3133.907 MegaBytes/min.
+   Ended : Sunday, March 15, 2026 4:50:50 PM
 
  
 [DEBUG] Counting source files 
