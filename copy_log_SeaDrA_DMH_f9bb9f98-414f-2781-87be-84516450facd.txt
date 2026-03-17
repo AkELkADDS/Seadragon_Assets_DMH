@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd 
-   Sun 03/15/2026 16:58:16.05 
+   Tue 03/17/2026 21:00:45.77 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -37,9 +37,31 @@ Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDr
  
 Files found: 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\CharacterCreation\CharacterCreationAppearanceVisuals.lsx 
-Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd: 1 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\Content\[PAK]_SeaDrA_Valtheris\1348648d-549a-4df8-b957-88b7f81a8441.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\Content\[PAK]_SeaDrA_Valtheris\2d990b85-8be8-4e2c-91ea-84f05c2f087a.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\Content\[PAK]_SeaDrA_Valtheris\34a7ba72-1aee-483d-b335-9d922172c3bd.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\Content\[PAK]_SeaDrA_Valtheris\51493561-a2f5-4708-8cc9-18684af6ff80.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\Content\[PAK]_SeaDrA_Valtheris\69d2e36d-dca1-453d-a05c-f5c650bfff20.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\Content\[PAK]_SeaDrA_Valtheris\a5cd466c-ebd5-4246-acf7-1f59be346836.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\Content\[PAK]_SeaDrA_Valtheris\c981eb9c-591d-4907-98ab-5dd21d510438.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\Content\[PAK]_SeaDrA_Valtheris\ca8bbee5-a171-4e57-a152-baa890200f70.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\Content\[PAK]_SeaDrA_Valtheris\cadd9cac-bb4e-4910-83bf-fd8137901612.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\Content\[PAK]_SeaDrA_Valtheris\e4e073ae-83f9-4db5-a6c4-c5284b7410d0.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\Content\[PAK]_SeaDrA_Valtheris\f8449ef5-187f-4227-b8c7-dbe7445d41a1.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Crest\DGB_M_Valtheris_Top_Pearl_AntlersFrills.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Crest\DGB_M_Valtheris_Top_Pearl_AntlersFrills.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Jaw\DGB_M_Valtheris_Jaw_Pearl_CoralRFrills.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Jaw\DGB_M_Valtheris_Jaw_Pearl_CoralRFrills.xml 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd: 16 
  
-[LOG] Total files found across all folders: 8 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Crest\DGB_M_Valtheris_Top_Pearl_AntlersFrills.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Jaw\DGB_M_Valtheris_Jaw_Pearl_CoralRFrills.GR2 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd: 2 
+ 
+[LOG] Total files found across all folders: 25 
  
 SECTION 2: COPY OPERATIONS 
 ------------------------------------------------------------------------ 
@@ -55,7 +77,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Sunday, March 15, 2026 4:58:19 PM
+  Started : Tuesday, March 17, 2026 9:00:48 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\
      Dest : C:\GIT_BG3\MOD_REPOS\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\Projects\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\
 
@@ -66,7 +88,7 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		     688	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\meta.lsx100%  
-	    New File  		   1.2 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\thumbnail.png 62%  100%  
+	    New File  		   1.2 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\thumbnail.png 82%  100%  
 
 ------------------------------------------------------------------------------
 
@@ -79,7 +101,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           1266179000 Bytes/sec.
    Speed :            72451.343 MegaBytes/min.
-   Ended : Sunday, March 15, 2026 4:58:19 PM
+   Ended : Tuesday, March 17, 2026 9:00:48 PM
 
  
 [DEBUG] Counting source files 
@@ -105,7 +127,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Sunday, March 15, 2026 4:58:20 PM
+  Started : Tuesday, March 17, 2026 9:00:50 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\
      Dest : C:\GIT_BG3\MOD_REPOS\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\Editor\Mods\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\
 
@@ -115,16 +137,16 @@ SECTION 2: COPY OPERATIONS
 
 ------------------------------------------------------------------------------
 
-	    New File  		   73116	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\CharacterCreation\CharacterCreationAppearanceVisuals.tbl100%  
+	    New File  		  120948	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\CharacterCreation\CharacterCreationAppearanceVisuals.tbl100%  
 
 ------------------------------------------------------------------------------
 
                Total    Copied   Skipped  Mismatch    FAILED    Extras
     Dirs :         6         6         1         0         0         0
    Files :         1         1         0         0         0         0
-   Bytes :    71.4 k    71.4 k         0         0         0         0
+   Bytes :   118.1 k   118.1 k         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
-   Ended : Sunday, March 15, 2026 4:58:20 PM
+   Ended : Tuesday, March 17, 2026 9:00:50 PM
 
  
 [DEBUG] Counting source files 
@@ -150,7 +172,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Sunday, March 15, 2026 4:58:22 PM
+  Started : Tuesday, March 17, 2026 9:00:51 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\
      Dest : C:\GIT_BG3\MOD_REPOS\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\Mods\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\
 
@@ -161,22 +183,22 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		   14076	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\meta.lsx100%  
-	    New File  		   1.2 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\mod_publish_logo.png100%  
+	    New File  		   1.2 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\mod_publish_logo.png  0%  100%  
 	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\GUI\metadata.lsf100%  
-	    New File  		    6131	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\Localization\English\english.xml100%  
+	    New File  		   10915	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\Localization\English\english.xml100%  
 
 ------------------------------------------------------------------------------
 
                Total    Copied   Skipped  Mismatch    FAILED    Extras
     Dirs :         4         4         1         0         0         0
    Files :         4         4         0         0         0         0
-   Bytes :    1.22 m    1.22 m         0         0         0         0
+   Bytes :    1.23 m    1.23 m         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           643419500 Bytes/sec.
-   Speed :           36816.759 MegaBytes/min.
-   Ended : Sunday, March 15, 2026 4:58:22 PM
+   Speed :           645811500 Bytes/sec.
+   Speed :           36953.630 MegaBytes/min.
+   Ended : Tuesday, March 17, 2026 9:00:51 PM
 
  
 [DEBUG] Counting source files 
@@ -202,7 +224,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Sunday, March 15, 2026 4:58:23 PM
+  Started : Tuesday, March 17, 2026 9:00:53 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\
      Dest : C:\GIT_BG3\MOD_REPOS\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\
 
@@ -212,24 +234,93 @@ SECTION 2: COPY OPERATIONS
 
 ------------------------------------------------------------------------------
 
-	    New File  		   54769	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\CharacterCreation\CharacterCreationAppearanceVisuals.lsx100%  
+	    New File  		   87469	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\CharacterCreation\CharacterCreationAppearanceVisuals.lsx100%  
+	    New File  		    3082	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\Content\[PAK]_SeaDrA_Valtheris\1348648d-549a-4df8-b957-88b7f81a8441.lsf100%  
+	    New File  		    3077	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\Content\[PAK]_SeaDrA_Valtheris\2d990b85-8be8-4e2c-91ea-84f05c2f087a.lsf100%  
+	    New File  		    3083	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\Content\[PAK]_SeaDrA_Valtheris\34a7ba72-1aee-483d-b335-9d922172c3bd.lsf100%  
+	    New File  		    2814	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\Content\[PAK]_SeaDrA_Valtheris\51493561-a2f5-4708-8cc9-18684af6ff80.lsf100%  
+	    New File  		    3063	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\Content\[PAK]_SeaDrA_Valtheris\69d2e36d-dca1-453d-a05c-f5c650bfff20.lsf100%  
+	    New File  		    3077	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\Content\[PAK]_SeaDrA_Valtheris\a5cd466c-ebd5-4246-acf7-1f59be346836.lsf100%  
+	    New File  		    3077	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\Content\[PAK]_SeaDrA_Valtheris\c981eb9c-591d-4907-98ab-5dd21d510438.lsf100%  
+	    New File  		    3078	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\Content\[PAK]_SeaDrA_Valtheris\ca8bbee5-a171-4e57-a152-baa890200f70.lsf100%  
+	    New File  		    3083	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\Content\[PAK]_SeaDrA_Valtheris\cadd9cac-bb4e-4910-83bf-fd8137901612.lsf100%  
+	    New File  		    3079	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\Content\[PAK]_SeaDrA_Valtheris\e4e073ae-83f9-4db5-a6c4-c5284b7410d0.lsf100%  
+	    New File  		    3078	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\Content\[PAK]_SeaDrA_Valtheris\f8449ef5-187f-4227-b8c7-dbe7445d41a1.lsf100%  
+	    New File  		  144400	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Jaw\DGB_M_Valtheris_Jaw_Pearl_CoralRFrills.GR2100%  
+	    New File  		     206	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Jaw\DGB_M_Valtheris_Jaw_Pearl_CoralRFrills.xml100%  
+	    New File  		   2.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Crest\DGB_M_Valtheris_Top_Pearl_AntlersFrills.GR2100%  
+	    New File  		     209	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Crest\DGB_M_Valtheris_Top_Pearl_AntlersFrills.xml100%  
 
 ------------------------------------------------------------------------------
 
                Total    Copied   Skipped  Mismatch    FAILED    Extras
-    Dirs :         3         3         1         0         0         0
-   Files :         1         1         0         0         0         0
-   Bytes :    53.4 k    53.4 k         0         0         0         0
+    Dirs :         9         9         1         0         0         0
+   Files :        16        16         0         0         0         0
+   Bytes :    2.32 m    2.32 m         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
-   Ended : Sunday, March 15, 2026 4:58:23 PM
+
+
+   Speed :            76260843 Bytes/sec.
+   Speed :            4363.680 MegaBytes/min.
+   Ended : Tuesday, March 17, 2026 9:00:53 PM
 
  
 [DEBUG] Counting source files 
-[DEBUG] Total files counted: 1 
-[DEBUG] Successfully copied files: 1 
+[DEBUG] Total files counted: 16 
+[DEBUG] Successfully copied files: 16 
 [LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd: 
-      Total files: 1 
-      Copied successfully: 1 
+      Total files: 16 
+      Copied successfully: 16 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\Generated\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd to "Generated\Public"\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd 
+[DEBUG] Using destination: Generated\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Tuesday, March 17, 2026 9:00:55 PM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\
+     Dest : C:\GIT_BG3\MOD_REPOS\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\Generated\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   2.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Crest\DGB_M_Valtheris_Top_Pearl_AntlersFrills.GR2100%  
+	    New File  		  144400	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Jaw\DGB_M_Valtheris_Jaw_Pearl_CoralRFrills.GR2100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         6         6         1         0         0         0
+   Files :         2         2         0         0         0         0
+   Bytes :    2.21 m    2.21 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           1159436000 Bytes/sec.
+   Speed :            66343.460 MegaBytes/min.
+   Ended : Tuesday, March 17, 2026 9:00:55 PM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 2 
+[DEBUG] Successfully copied files: 2 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd: 
+      Total files: 2 
+      Copied successfully: 2 
       Skipped: 0 
       Mismatched: 0 
       Failed: 0 
@@ -254,13 +345,17 @@ SECTION 3: FALLBACK COPY ATTEMPTS
 [LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd 
 [LOG] Xcopy completed with code: 0 
 [LOG] Xcopy fallback successful 
-[LOG] Files copied by xcopy: 1 
+[LOG] Files copied by xcopy: 16 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\SeaDrA_DMH_f9bb9f98-414f-2781-87be-84516450facd 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 2 
 SECTION 4: FINAL SUMMARY 
 ------------------------------------------------------------------------ 
  
 [SUMMARY] Total mod folders found: 1 
-[SUMMARY] Total files found: 8 
-[SUMMARY] Total files successfully copied: 16 
+[SUMMARY] Total files found: 25 
+[SUMMARY] Total files successfully copied: 50 
  
 [SUMMARY] All files were copied successfully 
  
